@@ -15,10 +15,9 @@ About me:
     - Data pipeline design and implementation.
 
 <h1>My Skills</h1>
-
+<p align="center">
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,perl,python,json)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,vscode,visualstudio)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=knime,minitab)
+</p>
 
