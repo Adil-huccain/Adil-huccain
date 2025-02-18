@@ -14,5 +14,5 @@ About me:
     - SQL databases and data visualization with KNIME.
     - Data pipeline design and implementation.
 
-<h1>This is a heading</h1>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+<h1>My Skills</h1>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,perl,sql,python)
