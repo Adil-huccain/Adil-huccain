@@ -13,3 +13,5 @@ About me:
     - Scripting in Perl and Python for automation.
     - SQL databases and data visualization with KNIME.
     - Data pipeline design and implementation.
+      
+[My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
