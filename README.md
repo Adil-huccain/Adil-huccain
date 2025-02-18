@@ -9,11 +9,16 @@ About me:
     - Latest web development frameworks and technologies to improve web application performance and user experience.
     - Advanced Perl programming to enhance automation and data processing tasks.
 
-- 💬 Ask me about
+- 💬 Ask me about:
     - Scripting in Perl and Python for automation.
     - SQL databases and data visualization with KNIME.
     - Data pipeline design and implementation.
 
 <h1>My Skills</h1>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,plsql,perl,python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,perl,python,json)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,vscode,visualstudio)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=knime,minitab)
+
