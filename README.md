@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning:
     - Latest web development frameworks and technologies to improve web application performance and user experience.
     - Advanced Perl programming to enhance automation and data processing tasks.
+    - C++
 
 - 💬 Ask me about:
     - Scripting in Perl and Python for automation.
